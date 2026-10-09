@@ -1,5 +1,5 @@
 # Python Language Evolution
-It would be silly to think that Python was created perfect from day one. Every language evolves over time! Let us evolve the language as it should be.
+It would be silly to think that Python could be created perfect on day one. Every language evolves over time! Let us evolve the language as it should be.
 
 ---
 
