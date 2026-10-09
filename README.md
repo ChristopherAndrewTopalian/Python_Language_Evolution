@@ -1,9 +1,9 @@
-# CATopalian Python Development
-Here are some concepts that I think will help Python to continue to be an excellent language and experience for developers.
+# Python Language Evolution
+It would be silly to think that Python started perfect. Every language evolves over time! Let us evolve the language as it should be.
 
 ---
 
-# [Resolving the Loop Closure Gotcha -  A Path Toward Intuitive Binding](src/articles/1.1_resolving_the_loop_closure_gotcha/resolving_the_loop_closure_gotcha.md)
+# [Resolving the Loop Closure Gotcha -  A Path Toward Intuitive Binding](src/proposals/iteration_scoping/resolving_the_loop_closure_gotcha.md)
 
 ---
 
